@@ -1,6 +1,6 @@
 # Proiect_PDM
 
-Proiect Programare pe dispozitive mobile
+Proiect Programare pe dispozitive mobile - Anul 3 Semestrul 2
 
 Aplicatie in care utilizatorul poate sa evalueze si sa descrie o carte, folosind CoreData
 
